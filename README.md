@@ -10,7 +10,7 @@
 ## A little bit bout me
 <img
             align="right" height=130
-            src="[https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjdxZWo1aHdoMXBwdmk4bHozcTcxNDFjNDRzbHV2YWI0bmFzZWFleiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y0b2MpUTfnrUa3jIM7/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNyejZ1MzByb2RoeXQ0c25iMGUxazNxb2VzcnJzNDA2cHA3djQ1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcYLD29BgM5WKLDmwY/giphy.gif)"
+            src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNyejZ1MzByb2RoeXQ0c25iMGUxazNxb2VzcnJzNDA2cHA3djQ1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcYLD29BgM5WKLDmwY/giphy.gif"
         />
 
 
