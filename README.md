@@ -54,12 +54,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img width="100%"
-    src="https://64.media.tumblr.com/271cd9b0cff37cf0fac113268cfc2f96/tumblr_pcw4z2rWr41rd615wo1_1280.gifv"
-/>
-![8DC80250-4B5B-4177-83E0-E2A11F4EE541_1_105_c](https://github.com/user-attachments/assets/a207d5e3-86fa-4c80-8df0-78ae0f64a8a3)
-![3767D27C-2CC4-4696-A2C2-A963C521B349_1_105_c](https://github.com/user-attachments/assets/2045db91-d867-4fb7-acfc-fcfef3a0019c)
-
+<img 
+    width="100%"
+    src="https://private-user-images.githubusercontent.com/44467425/499670877-2045db91-d867-4fb7-acfc-fcfef3a0019c.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAwNjg0MzQsIm5iZiI6MTc2MDA2ODEzNCwicGF0aCI6Ii80NDQ2NzQyNS80OTk2NzA4NzctMjA0NWRiOTEtZDg2Ny00ZmI3LWFjZmMtZmNmZWYzYTAwMTljLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAxMFQwMzQ4NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMjI5YzFhNzNlMTNhNDQwNTVjMmYwMjlmOWIxZmYzZDcwYjY4ODI3OWM3YzZhNmM5ZTdhYjIzNzEyOWEzYjE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6fAOp2dtDRYdirBW3UHZpVyZ18PDDdTUdvHc5ihHgw8"
+  />
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rileymtt&show_icons=true&locale=en&theme=tokyonight" alt="panoptisDev" />  -->
 
