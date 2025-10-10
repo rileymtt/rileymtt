@@ -56,8 +56,8 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=rileymtt&icon=4&color=12)](https://visitcount.itsvg.in)
+<br>
 
-<img width="100%" src="https://private-user-images.githubusercontent.com/44467425/499670877-2045db91-d867-4fb7-acfc-fcfef3a0019c.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjAwNjg0MzQsIm5iZiI6MTc2MDA2ODEzNCwicGF0aCI6Ii80NDQ2NzQyNS80OTk2NzA4NzctMjA0NWRiOTEtZDg2Ny00ZmI3LWFjZmMtZmNmZWYzYTAwMTljLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAxMFQwMzQ4NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lMjI5YzFhNzNlMTNhNDQwNTVjMmYwMjlmOWIxZmYzZDcwYjY4ODI3OWM3YzZhNmM5ZTdhYjIzNzEyOWEzYjE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6fAOp2dtDRYdirBW3UHZpVyZ18PDDdTUdvHc5ihHgw8" />
+<img width="100%" src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif" />
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rileymtt&show_icons=true&locale=en&theme=tokyonight" alt="panoptisDev" />  -->
