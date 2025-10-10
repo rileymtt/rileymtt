@@ -56,8 +56,6 @@
 
 ---
 
-<br>
-
 <img width="100%" src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif" />
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rileymtt&show_icons=true&locale=en&theme=tokyonight" alt="panoptisDev" />  -->
