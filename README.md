@@ -58,6 +58,7 @@
     src="https://64.media.tumblr.com/271cd9b0cff37cf0fac113268cfc2f96/tumblr_pcw4z2rWr41rd615wo1_1280.gifv"
 />
 ![8DC80250-4B5B-4177-83E0-E2A11F4EE541_1_105_c](https://github.com/user-attachments/assets/a207d5e3-86fa-4c80-8df0-78ae0f64a8a3)
+![3767D27C-2CC4-4696-A2C2-A963C521B349_1_105_c](https://github.com/user-attachments/assets/2045db91-d867-4fb7-acfc-fcfef3a0019c)
 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rileymtt&show_icons=true&locale=en&theme=tokyonight" alt="panoptisDev" />  -->
