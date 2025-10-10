@@ -22,13 +22,10 @@
 <p align="center">
     <h6>LANGUAGES</h6>
     <img src="https://skillicons.dev/icons?i=ts,js,rust,python,html,css,php,solidity"/>
-    <br>
     <h6>Hosting/SaaS</h6>
     <img src="https://skillicons.dev/icons?i=aws,cloudflare,firebase" />
-    <br>
     <h6>FRAMEWORKS, PLATFORMS & LIBRARIES</h6>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,react,next,mui,yarn,npm,angular,bootstrap,deno,elasticsearch,electron,jquery,wordpress,laravel"
-    />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,next,mui,yarn,npm,angular,bootstrap,deno,elasticsearch,electron,jquery,wordpress,laravel"/>
     <h6>SERVERS</h6>
     <img src="https://skillicons.dev/icons?i=nginx,jenkins" />
     <h6>DATABASES / ORM</h6>
