@@ -1,14 +1,12 @@
 <!-- Banner  -->
-  <img 
-    src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"
-    width="100%" 
-  />
+
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
 
 <h1 align="center">Hi bro, It's nice to meet you</h1>
 <h5 align="center">I'm Riley. A passionate Full-stack developer</h5>
-<br>
 
 ## A little bit bout me
+
 <img
             align="right" height=130
             src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNyejZ1MzByb2RoeXQ0c25iMGUxazNxb2VzcnJzNDA2cHA3djQ1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcYLD29BgM5WKLDmwY/giphy.gif"
@@ -16,9 +14,9 @@
 
 👩🏻‍💻 I’m currently working as a **Full-stack Developer at SPLabs** <br>📫 My contact **rileydot.mtt@gmail.com**<br>
 🔗 My linkedin <a href="https://www.linkedin.com/in/riley-tran-a19b331b0/" target="_blank">
-         **Riley Tran**
-    </a>
-<br>☕️ Fun fact **I in love with Coca Cola**
+**Riley Tran**</a><br>
+☕️ Fun fact **I in love with Coca Cola**
+
 <br>
 
 ## My Tech Stack
@@ -39,7 +37,8 @@
     <img src="https://skillicons.dev/icons?i=vscode,docker,figma,apple,bash,discord,bots,notion,regex,threejs,ubuntu" />
 </p>
 
-##
+<br>
+<br>
 
 # 📊 GitHub Stats:
 
@@ -48,12 +47,15 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rileymtt&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=rileymtt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=rileymtt&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=rileymtt&icon=4&color=12)](https://visitcount.itsvg.in)
 
 <img 
@@ -64,4 +66,3 @@
   />
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rileymtt&show_icons=true&locale=en&theme=tokyonight" alt="panoptisDev" />  -->
-
