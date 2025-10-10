@@ -7,7 +7,6 @@
 <h1 align="center">Hi bro, It's nice to meet you</h1>
 <h5 align="center">I'm Riley. A passionate Full-stack developer</h5>
 <br>
-<br>
 
 ## A little bit bout me
 <img
@@ -21,7 +20,7 @@
     </a>
 <br>☕️ Fun fact **I in love with Coca Cola**
 <br>
-<br>
+
 ## My Tech Stack
 <p align="center">
     <h6>LANGUAGES</h6>
