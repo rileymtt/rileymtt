@@ -5,7 +5,7 @@
 <h1 align="center">Hi bro, It's nice to meet you</h1>
 <h5 align="center">I'm Riley. A passionate Full-stack developer</h5>
 
-## A little bit bout me
+## A little bit about me
 
 <img
             align="right" height=130
