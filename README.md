@@ -10,7 +10,7 @@
 <img
             align="right" height=130
             src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNyejZ1MzByb2RoeXQ0c25iMGUxazNxb2VzcnJzNDA2cHA3djQ1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcYLD29BgM5WKLDmwY/giphy.gif"
-        />
+/>
 
 👩🏻‍💻 I’m currently working as a **Full-stack Developer at SPLabs** <br>📫 My contact **rileydot.mtt@gmail.com**<br>
 🔗 My linkedin <a href="https://www.linkedin.com/in/riley-tran-a19b331b0/" target="_blank">
