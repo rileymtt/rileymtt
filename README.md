@@ -6,10 +6,11 @@
   <a href="https://t.me/riley056" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-0088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-👩🏻‍💻 I’m currently working as a **Full-stack Developer at SPLabs** <br>📫 My contact **rileydot.mtt@gmail.com**<br>
-🔗 My linkedin <a href="https://www.linkedin.com/in/riley-tran-a19b331b0/" target="_blank">
-**Riley Tran**</a><br>
-☕️ Fun fact **I in love with Coca Cola**
+I'm a Full-Stack Developer currently working at <a href="https://splabs.info/" target="_blank">SPLabs</a>.
+
+I’ve been working in software development since 2017, focusing on building scalable web and mobile applications. I specialize in full-stack systems, cross-platform mobile apps with React Native, and production-ready backend services.
+
+I enjoy turning complex requirements into clean, maintainable solutions and continuously improving performance, reliability, and developer experience.
 
 <h3>My Projects</h3>
 <table>
