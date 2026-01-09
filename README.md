@@ -11,6 +11,64 @@
 **Riley Tran**</a><br>
 ☕️ Fun fact **I in love with Coca Cola**
 
+<h3>My Projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📦 Projects</b></td>
+      <td><b>📜 Language</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🔀 Forks</b></td>
+      <td><b>ℹ️ Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/rileymtt/reactjs-nodejs-typescript-mysql-docker-template">
+      <b>🚀 reactjs-nodejs-typescript-mysql-docker-template</b>
+      </a> - Pure temple for Dockerized Fullstack</td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=fff" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/rileymtt/reactjs-nodejs-typescript-mysql-docker-template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/rileymtt/reactjs-nodejs-typescript-mysql-docker-template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/rileymtt/reactjs-nodejs-typescript-mysql-docker-template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rileymtt/reactjs-nodejs-typescript-mysql-docker-template?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rileymtt/get-blockchain-holder-list"><b>🌒 get-blockchain-holder-list</b></a> — Get blockchain holder list</td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=fff" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/rileymtt/get-blockchain-holder-list?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/rileymtt/get-blockchain-holder-list?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/rileymtt/get-blockchain-holder-list?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rileymtt/get-blockchain-holder-list?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rileymtt/tdino"><b>👟 tdino</b></a> — Sale Sneaker App</td>
+      <td><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/rileymtt/tdino?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/rileymtt/tdino?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/rileymtt/tdino?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rileymtt/tdino?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rileymtt/readjoy-service"><b>📚 readjoy-service</b></a> — Book Management Service</td>
+      <td><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=fff" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/rileymtt/readjoy-service?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/rileymtt/readjoy-service?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/rileymtt/readjoy-service?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rileymtt/readjoy-service?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rileymtt/readjoy-app"><b>📚 readjoy-app</b></a> — Book Management App</td>
+      <td><img alt="React Native" src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/rileymtt/readjoy-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/rileymtt/readjoy-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/rileymtt/readjoy-app?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rileymtt/readjoy-app?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 <h3>My Stacks</h3>
 <!-- <p align="center">
     <h6>LANGUAGES</h6>
