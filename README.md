@@ -5,7 +5,7 @@
 <h2>Hi there, I'm Riley (he/him) 👋</h2>
 <!-- <h5 align="center">I'm Riley. A passionate Full-stack developer</h5> -->
 
-## A little bit about me
+<!-- ## A little bit about me -->
 
 <!-- <img
             align="right" height=130
