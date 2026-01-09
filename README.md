@@ -1,16 +1,16 @@
 <!-- Banner  -->
 
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
+<!-- <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" /> -->
 
 <h1 align="center">Hi bro, It's nice to meet you</h1>
 <h5 align="center">I'm Riley. A passionate Full-stack developer</h5>
 
 ## A little bit about me
 
-<img
+<!-- <img
             align="right" height=130
             src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNyejZ1MzByb2RoeXQ0c25iMGUxazNxb2VzcnJzNDA2cHA3djQ1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcYLD29BgM5WKLDmwY/giphy.gif"
-/>
+/> -->
 
 👩🏻‍💻 I’m currently working as a **Full-stack Developer at SPLabs** <br>📫 My contact **rileydot.mtt@gmail.com**<br>
 🔗 My linkedin <a href="https://www.linkedin.com/in/riley-tran-a19b331b0/" target="_blank">
@@ -40,6 +40,8 @@
 <br>
 <br>
 
+<!--
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=rileymtt&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -58,3 +60,5 @@
 ---
 
 <img width="100%" src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif" />
+
+-->
