@@ -2,8 +2,8 @@
 
 <!-- <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" /> -->
 
-<h1 align="center">Hi bro, It's nice to meet you</h1>
-<h5 align="center">I'm Riley. A passionate Full-stack developer</h5>
+<h2>Hi there, I'm Riley (he/him) 👋</h2>
+<!-- <h5 align="center">I'm Riley. A passionate Full-stack developer</h5> -->
 
 ## A little bit about me
 
