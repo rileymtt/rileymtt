@@ -37,8 +37,20 @@
     <img src="https://skillicons.dev/icons?i=vscode,docker,figma,apple,bash,discord,bots,notion,regex,threejs,ubuntu" />
 </p>
 
-<br>
-<br>
+![Static Badge](https://img.shields.io/badge/-Typescript-007acc?style=flat-square&logo=typescript&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/-React.js-61DBFB?style=flat-square&logo=react&logoColor=000)
+![Static Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Static Badge](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/-Rust-ce412B?style=flat-square&logo=rust&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/-Python-ffd43b?style=flat-square&logo=python&logoColor=000)
+
+
+
+<!-- <br>
+<br> -->
 
 <!--
 
