@@ -19,7 +19,7 @@
 
 <br>
 
-## My Tech Stack
+## My Stacks
 <p align="center">
     <h6>LANGUAGES</h6>
     <img src="https://skillicons.dev/icons?i=ts,js,rust,python,html,css,php,solidity"/>
