@@ -1,5 +1,11 @@
 <h2>Hi there, I'm Riley (he/him) 👋</h2>
 
+<p align="center">
+  <a href="https://withriley.club/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/rileymtt/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/riley056" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-0088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
 👩🏻‍💻 I’m currently working as a **Full-stack Developer at SPLabs** <br>📫 My contact **rileydot.mtt@gmail.com**<br>
 🔗 My linkedin <a href="https://www.linkedin.com/in/riley-tran-a19b331b0/" target="_blank">
 **Riley Tran**</a><br>
