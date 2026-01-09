@@ -12,7 +12,7 @@ I’ve been working in software development since 2017, focusing on building sca
 
 I enjoy turning complex requirements into clean, maintainable solutions and continuously improving performance, reliability, and developer experience.
 
-<h3>My Projects</h3>
+<h3>My Personal Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
